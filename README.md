@@ -96,7 +96,7 @@ Open `volatility_predictor.ipynb` and run all cells.
 
 ## 🧑‍💻 Author
 
-**Aditya Kaushik**
+**Yuvika Singh**
 *Built for learning, showcasing ML in finance, and risk-control modeling.*
 
 
